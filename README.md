@@ -4,4 +4,4 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 [Check out their website here](https://adventofcode.com/)
 
-## This repository cointains all of my solutions written in C#
+## This repository contains all of my solutions written in C#
